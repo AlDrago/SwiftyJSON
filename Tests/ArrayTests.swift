@@ -21,7 +21,7 @@
 //  THE SOFTWARE.
 
 import XCTest
-import SwiftyJSON
+import SwiftyJSON3
 
 class ArrayTests: XCTestCase {
 
